@@ -25,7 +25,7 @@ export default function Weather(props) {
     axios.get(apiUrl).then(handleResponse);
   }
   function handleSubmit(event) {
-    event.preventDefaul();
+    event.preventDefault();
     search();
   }
 

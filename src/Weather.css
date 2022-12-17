@@ -33,8 +33,7 @@
 .Weather .unit {
   position: relative;
   font-size: 18px;
-  top: -35px;
-  top: 20px;
+  top: -27px;
 }
 .Weather .btn {
   background: #bebde3;
